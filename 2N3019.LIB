@@ -1,0 +1,29 @@
+******
+* Spice Model
+* Item: 2N3019
+* Date: 8/11/10
+* Revsion History: REV. A
+*==========================================================
+* This model was developed by: 
+* Central Semiconductor Corp.
+* 145 Adams Avenue
+* Hauppauge, NY 11788
+*
+* These models are subject to change without notice.
+* Users may not directly or indirectly re-sell or 
+* re-distribute this model. This model may not 
+* be modified, or altered without the consent of Central Semiconductor Corp. 
+*
+* For more information on this model contact
+* Central Semiconductor Corp. at:
+* (631) 435-1110 or Engineering@centralsemi.com
+* http://www.centralsemi.com
+**==========================================================
+******
+*SRC=2N3019;2N3019;BJTs NPN; Si;  140.0V  1.00A  100MHz   Central Semi Central Semi
+.MODEL 2N3019  NPN (IS=101f NF=1.00 BF=154 VAF=161
++ IKF=0.500 ISE=117p NE=2.00 BR=4.00 NR=1.00
++ VAR=28.0 IKR=1.27 RE=0.121 RB=0.486 RC=48.6m
++ XTB=1.5 CJE=62.2p VJE=1.10 MJE=0.500 CJC=26.0p VJC=0.300
++ MJC=0.300 TF=753p TR=129n EG=1.12 )
+******
