@@ -1,0 +1,4 @@
+schematics 1-push-pull-tl494.sch 
+elements-dir /home/chujoii/project/geda-helper/footprints-geda
+elements-dir /home/chujoii/project/geda-helper/footprints-my
+output-name 1-push-pull-tl494

@@ -1,0 +1,4 @@
+schematics 3-power-switch.sch 
+elements-dir /home/chujoii/project/geda-helper/footprints-geda
+elements-dir /home/chujoii/project/geda-helper/footprints-my
+output-name 3-power-switch
